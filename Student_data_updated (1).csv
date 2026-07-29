@@ -1,0 +1,101 @@
+Roll number,Name,Gender,SPI S1,SPI S2,SPI S3,SPI S4,SPI S5,CPI,Home State,Accomodation,Attendance %
+23120001,Lakshmi,Female,7.83,8.41,7.5,8.53,9.42,8.36,Chhattisgarh,Hosteler,92
+23120002,Aashu,Male,7.62,7.66,5.96,7.57,6.76,7.11,Uttar Pradesh,Outsider,62
+23120003,Astitv,Male,8.34,8.16,7.3,6.88,7.09,7.55,Madhya Pradesh,Outsider,72
+23120004,Abhishek,Male,7.66,8,6.65,8.23,9.09,7.88,Chhattisgarh,Outsider,92
+23120005,Adit,Male,8.57,8.33,7.5,8.11,8.23,8.14,Bihar,Hosteler,76
+23120006,Afsha,Female,8.04,8.16,7.76,8.07,8.61,8.11,Maharashtra,Hosteler,82
+23120007,Aishu,Female,7.59,7.91,7.65,8.3,8.04,7.9,Karnataka,Outsider,75
+23120008,Ajay,Male,8.41,8.87,8.73,9.23,9.23,8.89,Maharashtra,Hosteler,92
+23120009,Akshay,Male,8.32,8.62,7.23,8.69,8.42,8.24,Chhattisgarh,Hosteler,70
+23120010,Dev,Male,7.08,8.12,8.34,9.34,8.28,8.25,Andhra Pradesh,Outsider,90
+23120011,Amneet,Male,7.79,7.79,7.92,8.84,8.47,8.16,Tamil Nadu,Outsider,75
+23120012,Anukul Roy,Male,9.03,9.29,9.3,9.84,9.76,9.4,Delhi,Hosteler,92
+23120013,Deep ,Male,6.7,7.04,6.22,6.22,6.23,6.48,Chhattisgarh,Outsider,62
+23120014,Anurag,Male,6.54,7.62,7.23,8.11,8.14,7.52,Chhattisgarh,Outsider,80
+23120015,Ashutosh,Male,7,7.08,6.34,7.15,8.04,7.09,Punjab,Outsider,82
+23120016,Archit,Male,8.28,9.04,9.3,9.65,9.76,9.2,Punjab,Hosteler,92
+23120017,Argh,Male,6.4,7.79,7.84,8.88,9.23,8.01,Chhattisgarh,Hosteler,92
+23120018,Atmik,Male,9.32,9.54,9.84,9.84,9.8,9.67,Delhi,Hosteler,92
+23120019,Ayush,Male,7.5,8.12,7.73,8.42,9.09,8.14,Chhattisgarh,Hosteler,92
+23120020,Babita,Female,7.08,7.7,6.46,7.88,7.52,7.32,Chhattisgarh,Outsider,72
+23120021,Vinay,Male,6.56,6.45,6.06,6.46,7.71,6.61,Telangana,Hosteler,72
+23120022,Viswanath,Male,7.74,7.58,7.34,9.03,9,8.12,Chhattisgarh,Hosteler,80
+23120023,Deepak,Male,5.96,6.16,6.29,6.65,7.23,6.44,Haryana,Outsider,72
+23120024,Dharmendra,Male,7.09,7.45,7.96,8.73,8,7.85,Maharashtra,Outsider,82
+23120025,Harshita,Female,8.33,8.87,8.07,9.34,8.61,8.65,Chhattisgarh,Hosteler,82
+23120026,Himanshu,Male,6.51,6.58,6.69,7.46,7.28,6.9,Chhattisgarh,Outsider,72
+23120027,Ishak,Female,7.41,8.41,8.42,8.76,8.71,8.34,Chhattisgarh,Outsider,82
+23120028,Jagriti,Female,8.2,8.58,9.07,9.19,9.95,8.98,Andhra Pradesh,Hosteler,92
+23120029,Jaya,Female,7.7,9.16,9,9.19,9.52,8.9,Chhattisgarh,Hosteler,92
+23120030,Kamal,Male,6.9,6.54,7.11,7.65,7.52,7.14,Andhra Pradesh,Hosteler,72
+23120031,Kriti,Female,8.66,8.7,9.38,9.84,9.66,9.25,Chhattisgarh,Outsider,92
+23120032,Luv,Male,8.08,7.66,7.46,7.03,7.66,7.57,Odisha,Outsider,72
+23120033,Madhuri,Female,6.09,6.91,6.11,6.84,8.19,6.78,Chhattisgarh,Outsider,76
+23120034,Mukesh,Male,7.96,8.08,7.07,7.36,7.19,7.53,Odisha,Outsider,72
+23120035,Navdeep,Male,7.5,7.58,7.53,7.3,7.42,7.47,West Bengal,Outsider,72
+23120036,Nikita,Female,7.11,7.83,7.53,8.26,8.61,7.85,Chhattisgarh,Outsider,82
+23120037,Snikita,Female,7.5,7.62,7.23,7.57,5.71,7.17,Chhattisgarh,Outsider,52
+23120038,Naveen,Male,7.83,9.25,8.8,9.57,9.23,8.94,Chhattisgarh,Outsider,92
+23120039,Om Rawat,Male,6.87,7.75,7,7.17,8.04,7.34,Chhattisgarh,Outsider,76
+23120040,Om Prabhu,Male,6.79,7.95,7.65,8.34,9.09,7.94,Odisha,Outsider,86
+23120041,Paalki,Female,7.28,8.16,7,8,8.47,7.76,West Bengal,Outsider,76
+23120042,Parag,Male,8.87,9.33,9.96,9.76,9.52,9.5,Chhattisgarh,Outsider,92
+23120043,Prabhu,Male,6.29,6.5,6.69,7.84,8.19,7.08,Jharkhand,Outsider,82
+23120044,Pranjaly,Female,7.04,8.08,7.96,9,9.76,8.33,Andhra Pradesh,Outsider,92
+23120045,Pavan,Male,7.24,8,7.46,7.96,7.23,7.59,Chhattisgarh,Outsider,72
+23120046,Purushottam,Male,7.37,7.29,6.07,6.87,7.33,6.96,Kerala,Outsider,72
+23120047,Rahul,Male,7.37,7.75,8,8.46,8.66,8.04,Kerala,Outsider,82
+23120048,Akshit,Male,6.79,7.83,7.38,8.15,8.04,7.63,Chhattisgarh,Outsider,78
+23120049,Ram ,Male,7.28,7.66,8,8.19,8.47,7.91,Chhattisgarh,Outsider,82
+23120050,Rishabh,Male,7.79,7.91,7.03,7.8,7.71,7.64,Chhattisgarh,Outsider,72
+23120051,Sumit,Male,6.5,7.04,6.3,6.73,6.61,6.63,Rajasthan,Outsider,62
+23120052,Shailesh,Male,7,6.66,6.8,7.53,7.23,7.04,Gujarat,Outsider,72
+23120053,shashank,Male,7.65,7.75,6.84,7.07,7.76,7.39,Chhattisgarh,Outsider,70
+23120054,shikar,Male,8.38,8.7,9.07,9.11,8.95,8.85,Rajasthan,Outsider,82
+23120055,shiv,Male,6.54,7.08,6.59,7,7.71,6.96,Jharkhand,Outsider,72
+23120056,shristi,Female,8,8.16,7.26,8.23,8,7.92,Chhattisgarh,Outsider,68
+23120057,shubham,Male,7.53,7.75,7.96,8.76,8.47,8.09,Chhattisgarh,Outsider,82
+23120058,Siddharth,Male,7.17,7.57,8.03,7.88,8,7.73,Andhra Pradesh,Outsider,82
+23120059,Sid,Male,7.95,7.87,7.5,7.88,7.71,7.78,Chhattisgarh,Outsider,32
+23120060,sidhant,Male,7.82,7.62,6.92,7.84,7,7.45,Gujarat,Outsider,72
+23120061,Ajit,Male,8.54,8.5,8.19,9.23,8.42,8.58,Uttarakhand,Hosteler,82
+23120062,Varun,Male,7.75,7.87,7.69,8.15,8.61,8,Chhattisgarh,Outsider,82
+23120063,varshini,Female,8.2,7.66,6.69,7.92,8.28,7.72,Chhattisgarh,Outsider,82
+23120064,ved,Male,8.25,8.33,8.38,8.42,8.76,8.42,Rajasthan,Hosteler,92
+23120065,Prakash,Male,8.22,8.45,8.53,8.69,8.09,8.41,Chhattisgarh,Outsider,82
+23120066,vinayak,Male,8.12,8,7.5,8.8,8.71,8.21,Chhattisgarh,Outsider,82
+23120067,yashvi,Female,8.57,7.79,7.23,7.67,8.14,7.86,Chhattisgarh,Outsider,82
+23120068,Raj,Male,7.37,7.29,7.24,7.73,8.9,7.67,Chhattisgarh,Outsider,82
+23120069,Mahraj,Male,9.37,8.83,8,8.53,8.19,8.58,Uttarakhand,Hosteler,80
+23120070,Anjul,Male,8.58,8.5,7.19,7.8,8.33,8.05,Himachal Pradesh,Outsider,82
+23120071,Bhuvan,Male,8.37,8.5,7.88,7.92,8.14,8.15,Bihar,Outsider,82
+23120072,Ramesh,Male,8.62,7.83,8.07,7.92,8.14,8.11,Chhattisgarh,Outsider,76
+23120073,adarsh,Male,8.2,8.2,8.3,8.69,8.04,8.3,Chhattisgarh,Outsider,78
+23120074,Tejas,Male,8.41,7.95,7.46,7.76,8.23,7.95,Arunachal Pradesh,Hosteler,82
+23120075,Aryan,Male,7.7,8.62,7.69,8.88,8.09,8.2,Chhattisgarh,Hosteler,82
+23120076,Shreya,Female,8.16,8.12,8,8.38,8.14,8.16,Telangana,Outsider,75
+23120077,NTR,Male,7.83,7.7,7.5,7.96,8.71,7.91,Andhra Pradesh,Hosteler,82
+23120078,krishna,Male,7.83,8.41,7.5,8.53,9.42,8.36,Chhattisgarh,Outsider,92
+23120079,sarojni,Female,7.7,7.08,6.46,7.88,7.52,7.32,Chhattisgarh,Outsider,75
+23120080,Mannu,Male,7.24,7.2,6.12,8.03,7,7.12,Chhattisgarh,Hosteler,75
+23120081,Rohit,Male,6.56,6.45,6.06,6.46,7.71,6.61,Goa,Hosteler,75
+23120082,Kavya,Female,6.91,6.09,6.84,6.11,8.19,6.78,Karnataka,Outsider,75
+23120083,Yogesh,Male,7.96,8.08,7.07,7.36,7.19,7.53,Chhattisgarh,Hosteler,75
+23120084,Harsh,Male,7.83,8.41,8.53,7.5,9.42,8.36,Assam,Outsider,92
+23120085,Manju,Female,7.7,7.08,6.46,7.88,7.52,7.32,Chhattisgarh,Outsider,75
+23120086,Moksha,Male,7.24,7.2,8.03,6.12,7,7.12,Nagaland,Hosteler,92
+23120087,Manmeet,Male,6.56,6.45,6.46,6.06,7.71,6.61,Chhattisgarh,Hosteler,72
+23120088,Harini,Female,7.57,7.17,7.88,8.03,8,7.73,Telangana,Outsider,60
+23120089,Hartaaj,Male,7.95,7.87,7.5,7.88,7.71,7.78,Manipur,Hosteler,75
+23120090,Rudr,Male,7.82,7.62,6.92,7.84,7,7.45,Chhattisgarh,Outsider,82
+23120091,Bala,Male,8.54,8.5,8.19,9.23,8.42,8.58,Chhattisgarh,Outsider,75
+23120092,Ankul,Male,7.5,7.58,7.53,7.3,7.42,7.47,Chhattisgarh,Hosteler,75
+23120093,Anuj,Male,7.11,7.83,7.53,8.26,8.61,7.85,Meghalaya,Hosteler,84
+23120094,Sibam,Male,7.66,7.3,7.73,9.04,8.56,7.92,West Bengal,Outsider,75
+23120095,Barkha,Female,7.37,7.72,7.13,7.98,5.56,7.2,Chhattisgarh,Hosteler,75
+23120096,Hima ,Male,8.41,7.83,7.5,8.53,9.42,8.36,Chhattisgarh,Outsider,92
+23120097,Roshni,Female,9.16,7.7,9.19,9,9.52,8.9,Chhattisgarh,Outsider,93
+23120098,Ankush,Male,7.96,8.16,8.69,9.23,9.04,8.61,Sikkim,Hosteler,92
+23120099,Bholu,Male,7.24,7.2,6.12,8.03,7,7.12,Sikkim,Hosteler,72
+23120100,Ayushman,Male,7.53,7.79,8.34,8.69,8.61,8.19,Chhattisgarh,Outsider,78
