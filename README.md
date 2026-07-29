@@ -5,7 +5,7 @@ Class Result Analysis is a data analysis project that explores the academic perf
 
 The project analyzes the relationship between students' academic performance and factors such as attendance, gender, accommodation type, and semester-wise SPI progression. Using data visualization and statistical analysis, it uncovers trends that can help identify areas for academic improvement while maintaining student privacy.
 
-Objectives
+Objectives:
 1.Analyze students' academic performance across multiple semesters.
 2.Study the relationship between attendance and academic results.
 3.Compare CPI distribution across different genders.
@@ -13,10 +13,8 @@ Objectives
 5.Categorize students based on overall academic performance.
 6.Generate actionable insights for academic mentoring.
 
-Dataset
-
+Dataset:
 The dataset was collected manually and contains anonymized records of students from five semesters.
-
 Features Included:
 Student ID (Anonymized)
 Gender
@@ -32,7 +30,7 @@ CPI (Cumulative Performance Index)
 
 Privacy Note: Personal identifiers have been removed or anonymized before analysis.
 
-Technologies Used
+Technologies Used:
 Python
 Jupyter Notebook
 Pandas
@@ -41,7 +39,7 @@ Matplotlib
 Seaborn
 OpenPyXL (Excel Handling)
 
-Data Preprocessing
+Data Preprocessing:
 
 Before performing the analysis, the dataset was cleaned by:
 
@@ -104,12 +102,12 @@ Based on the analysis, the following recommendations were identified:
 3.Monitor semester-wise performance to identify challenging academic periods.
 4.Offer additional academic support to students in the Needs Improvement category.
 
-Visualizations Included
-Histograms
-Box Plots
-Scatter Plots
-Bar Charts
-Distribution Plots
-Semester-wise Performance Charts
-Category-wise Performance Charts
-State-wise Comparative Charts
+Visualizations Included:
+1.Histograms
+2.Box Plots
+3.Scatter Plots
+4.Bar Charts
+5.Distribution Plots
+6.Semester-wise Performance Charts
+7.Category-wise Performance Charts
+8.State-wise Comparative Charts
